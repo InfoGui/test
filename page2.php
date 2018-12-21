@@ -8,8 +8,10 @@
 		<p><?php echo "ceci est un texte écrit par PHP"; ?></p>
 		<ul>
 			<li>
-				<a href="index.html" title="accueil">Accueil</a>
-				<a href="page2.html" title="page2">Page 3</a>
+				<a href="index.php" title="accueil">Accueil</a>
+			</li>
+			<li>
+				<a href="page3.php" title="page3">Page 3</a>
 			</li>
 		</ul>
 	</body>
