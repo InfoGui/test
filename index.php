@@ -5,7 +5,7 @@
 	</head>
 
 	<body>
-		<p><?php echo "ceci est un texte écrit par PHP"; ?></p>
+		<p><?php echo "Bonjour il est ". date(DATE_RFC2822); ?></p>
 		<ul>
 			<li>
 				<a href="page2.php" title="page2">Page 2</a>
