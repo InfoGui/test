@@ -5,6 +5,9 @@
 	</head>
 
 	<body>
+		<h1>
+			Bonne année !!
+		</h1>
 		<p><?php echo "Bonjour il est ". date(DATE_RFC2822); ?></p>
 		<ul>
 			<li>
